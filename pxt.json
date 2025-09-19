@@ -1,0 +1,42 @@
+{
+    "name": "project",
+    "description": "Auto-generated LPC assets",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.56",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#000000",
+        "#ffffff",
+        "#808080",
+        "#404040",
+        "#f84000",
+        "#e0e040",
+        "#c8c8b8",
+        "#a8a838",
+        "#4058a8",
+        "#885830",
+        "#98a8e0",
+        "#7870d8",
+        "#888838",
+        "#c0c038",
+        "#f8f848"
+    ]
+}
